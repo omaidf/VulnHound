@@ -23,7 +23,7 @@ A powerful security vulnerability scanner for code repositories that leverages a
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/vulnhound.git
+git clone https://github.com/omaidf/vulnhound.git
 cd vulnhound
 ```
 
